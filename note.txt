@@ -1,0 +1,3 @@
+touch note.txt
+
+git diff
